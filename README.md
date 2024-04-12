@@ -9,6 +9,8 @@ https://www.kaggle.com/datasets/the-guardian/extinct-languages
 ## Acknowledgments on the topic
 Data was originally organized and published by The Guardian and can be accessed via this Datablog post.
 
+https://en.wikipedia.org/wiki/Endangered_language#:~:text=The%20ultimate%20result%20is%20the,dead%20by%20the%20year%202100.
+
 
 ## Project Overview: Data Visualization Track
 
